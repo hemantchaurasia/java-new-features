@@ -1,4 +1,4 @@
-# Java new features:
+# Features in Java version released:
 ##Java versions and features added, releases after 2014 (Java v8):
 
 **Java 17 (2021):** This version introduced 
